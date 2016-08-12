@@ -1,0 +1,15 @@
+{
+  "name": "nikky-tron",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "Tron-inspired blue and grey theme. Battle tested; Nikky approved.",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/atom/nikky-tron",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
