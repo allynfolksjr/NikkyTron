@@ -7,7 +7,7 @@
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/nikky-tron",
+  "repository": "https://github.com/allynfolksjr/NikkyTron",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
